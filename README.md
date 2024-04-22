@@ -11,3 +11,6 @@ Files:
 - data/Green Job Titles Robustness Checks.xlsx: This file contains the results from our robustness checks, focusing on identifying any false positives or false negatives in our dataset. The aim is to ensure the accuracy and reliability of our job title identification process.
 - tr_robustness_checks.ipynb: This Jupyter notebook presents a list of pseudorandomly selected articles used for robustness checks.
 
+### Usage
+To view the excel files the easiest way is to download the whole repository and open them locally (see: https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github). 
+
