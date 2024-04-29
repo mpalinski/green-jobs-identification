@@ -11,6 +11,7 @@ Files:
 - data/Green Job Titles Robustness Checks.xlsx: This file contains the results from our robustness checks, focusing on identifying any false positives or false negatives in our dataset. The aim is to ensure the accuracy and reliability of our job title identification process.
 - data/scopus.xlsx: Metadata related to all text sources from Scopus analysed in the project.
 - data/wos.xls: Metadata related to all text sources from Web of Science analysed in the project.
+- data/Green Knowledge Database.xlsx: This Excel file contains all metadata related to articles from Scopus and WoS along with information on countries covered by authors obtained using LLM.
 - tr_robustness_checks.ipynb: This Jupyter notebook presents a list of pseudorandomly selected articles used for robustness checks.
 
 
